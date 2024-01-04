@@ -1,4 +1,4 @@
-### Hello! i'm Carlos Erick, 🖐️ 
+### Hello! I'm Carlos Erick, 🖐️ 
 ### Welcome to  my GitHub profile! 🖥️
 
 <br>
