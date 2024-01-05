@@ -17,7 +17,7 @@
 
 #### I'm Web Developer front-end. 
 
-#### I'm degree student on analyzes and System Development by Estácio de Sá University.
+#### I'm graduation student in Analyzes and Systems Development by Estácio de Sá University.
 
 #### My first graduation was on course of the food science by Pará State University from Belém city, Brazil.
 
