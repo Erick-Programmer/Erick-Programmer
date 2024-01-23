@@ -16,7 +16,7 @@
 ### 🔗 About me
 
 
-#### Knowledged acquired in books, technologies, articles, courses and more pratices for become Web Developer.
+#### Knowledge acquired in books, technologies, articles, courses and hard practices on projects for become Web Developer.
 
 #### I'm graduation student in Analyzes and Development Systems by Estácio of Sá University.
 
