@@ -16,15 +16,15 @@
 ### 🔗 About me
 
 
-#### I'm Web Developer front-end. 
+#### Knowledged acquired in books, technologies, articles, courses and more pratices for become Web Developer.
 
-#### I'm graduation student in Analyzes and Systems Development by Estácio de Sá University.
+#### I'm graduation student in Analyzes and Development Systems by Estácio of Sá University.
 
 #### My first graduation was on course of the food science by Pará State University from Belém city, Brazil.
 
-#### I like to spend my free time, playing a guitar, walk to tourist point with my wife, play with my cats, watch a films and series.
+#### I like to spend my free time, watches videos with my wife, walk to tourist point, funny with my cats, going to church.
 
-#### This moment, i'm reading algorithms and programming logic - one book that talked about how to solve real problems through of algorithms - written by Marcos Souza. 
+#### This moment, i'm reading algorithms and programming logic with Javascript- one book that talked about how to solve real problems through of algorithms - written by Epsen F. Edécio. 
 
 <br>
 
