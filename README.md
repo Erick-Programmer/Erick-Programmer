@@ -18,11 +18,11 @@
 
 #### Knowledge acquired in books, technologies, articles, courses and hard practices on projects for become Web Developer.
 
-#### I'm graduation student in Analyzes and Development Systems by Estácio of Sá University.
+#### Student of graduation in technologies of Analysis and Systems Development by Sá of Estácio University.
 
 #### My first graduation was on course of the food science by Pará State University from Belém city, Brazil.
 
-#### I like to spend my free time, watches videos with my wife, walk to tourist point, funny with my cats, going to church.
+#### I've to spend my free time, watches videos with my wife, walk to tourist point, funny with my cats, going to church.
 
 #### This moment, i'm reading algorithms and programming logic with Javascript- one book that talked about how to solve real problems through of algorithms - written by Epsen F. Edécio. 
 
