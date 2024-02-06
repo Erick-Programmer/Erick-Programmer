@@ -8,11 +8,11 @@
 
 #### 🔗 About me
 
-##### Student of graduation in technologies of Analysis and Systems Development by Sá of Estácio University.
+#### Student of graduation in technologies of Analysis and Systems Development by Sá of Estácio University.
 
-##### This moment, i'm reading and praticing algorithms and programming logic with Javascript, Node Js and React. 
+#### This moment, i'm reading and praticing algorithms and programming logic with Javascript, Node Js and React. 
 
-##### My first graduation was on course of the food science by Pará State University from Belém city, Brazil.
+#### My first graduation was on course of the food science by Pará State University from Belém city, Brazil.
 
 <br>
 
