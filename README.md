@@ -1,39 +1,28 @@
-### Hello! I'm Carlos Erick, 🖐️ 
-### Welcome to  my GitHub profile! 🖥️
 
-<br>
-
-### 🔗 Contact to me 📮 
-
-
+#### 🔗 Contact to me
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloserickrosario/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=carloserickrosario@gmail.com&su=&body=&bcc=&fs=1&tf=cm)
+<a target="_blank">[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://erick-programmer.github.io/Portfolio-Personal/portfolio.html)</a>
  
 <br>
 
+#### 🔗 About me
 
-### 🔗 About me
+##### Student of graduation in technologies of Analysis and Systems Development by Sá of Estácio University.
 
+##### This moment, i'm reading and praticing algorithms and programming logic with Javascript, Node Js and React. 
 
-#### Knowledge acquired in books, technologies, articles, courses and hard practices on projects for become Web Developer.
-
-#### Student of graduation in technologies of Analysis and Systems Development by Sá of Estácio University.
-
-#### My first graduation was on course of the food science by Pará State University from Belém city, Brazil.
-
-#### I've to spend my free time, watches videos with my wife, walk to tourist point, funny with my cats, going to church.
-
-#### This moment, i'm reading algorithms and programming logic with Javascript- one book that talked about how to solve real problems through of algorithms - written by Epsen F. Edécio. 
+##### My first graduation was on course of the food science by Pará State University from Belém city, Brazil.
 
 <br>
 
-### 🔗 GitHub Stats
+#### 🔗 GitHub Stats
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erick-programmer&show_icons=true&theme=dracula) 
 
 <br>
 
-### 🔗 Technologies and Tools
+#### 🔗 Technologies and Tools
 
 <div style="display: inline-block">
     <img align-items="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
